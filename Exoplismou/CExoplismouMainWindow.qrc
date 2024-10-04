@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file alias="no_photo">Icons/no_photo.png</file>
+        <file alias="closed_eye">Icons/closed_eye.png</file>
+        <file alias="opened_eye">Icons/opened_eye.png</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file alias="obit">QSS/Obit.qss</file>
+    </qresource>
+</RCC>
